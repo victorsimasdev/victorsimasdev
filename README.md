@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Victor Simas✋
 
-- 🔭 Trabalhando em pequenos projetos de crescimento individual
-- 🌱 Estudando Python
+- 🔭 Trabalhando em projetos de crescimento individual
+- 🌱 Estudando Python, HTML, PHP e JavaScript
 
 <div align="Left">
   <a href="https://github.com/victorsimasdev">
