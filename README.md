@@ -5,8 +5,8 @@
 
 <div align="Left">
   <a href="https://github.com/victorsimasdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorsimasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsimasdev&layout=compact&langs_count=7&theme=dark"/>
+  <img style="display: inine-bock; max-width: 45%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsimasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display: inine-bock; max-width: 45%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsimasdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="Right" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
