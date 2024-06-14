@@ -28,7 +28,7 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/victorsimasdev/victorsimasdev/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/victorsimasdev/victorsimasdev/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
