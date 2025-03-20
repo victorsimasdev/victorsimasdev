@@ -8,17 +8,8 @@
 
 <div align="center">
  
- 🔭 Atualmente trabalhando em um **site para requerir orçamentos**
- 
- 🌱 Atualmente aprendendo **Django**
-
+ Atualmente aprendendo **React**!
  </div>
- 
-<div align="center"> 
-  <a href="mailto:victorsimasdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/victor-simas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,react,django)](https://skillicons.dev)
