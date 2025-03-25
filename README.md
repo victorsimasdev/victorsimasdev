@@ -5,7 +5,7 @@
 <h3 align="center">Um desenvolvedor amadurecendo minhas habilidades!</h3>
 
 <div align="center">
-    Atualmente aprendendo **React**!
+    Atualmente aprendendo *React*!
  </div>
 </br>
 
