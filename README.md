@@ -5,12 +5,12 @@
 <h3 align="center">Um desenvolvedor amadurecendo minhas habilidades!</h3>
 
 <div align="center">
-    Atualmente aprendendo <b>React</b>!
+    Atualmente aprendendo <b>Java</b>!
  </div>
 </br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,html,css,js,c,react,django,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,html,css,js,c,react,django,php,mysql,java" />
   </a>
 </p>
