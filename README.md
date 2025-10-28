@@ -94,13 +94,13 @@ Os projetos acadêmicos que participei durante o curso estão reunidos em uma or
 <h2 align="left">Contato</h2>
 
 <p align="left">
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:victorsimasdev@gmail.com">
     <img alt="E-mail" height="25" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/seuperfil" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-simas/" target="_blank">
     <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/NOME-DA-SUA-ORG" target="_blank">
+  <a href="https://github.com/cesar-ads2402-vsaa" target="_blank">
     <img alt="Organização" height="25" src="https://img.shields.io/badge/Organização%20GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
