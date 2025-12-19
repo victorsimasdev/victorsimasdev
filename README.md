@@ -90,6 +90,7 @@ Os projetos acadêmicos que participei durante o curso estão reunidos em uma or
 |----------|------------|--------------|
 | [AniMatch](#https://github.com/cesar-ads2402-vsaa/AniMatch) | A proposta do projeto é desenvolver um site voltado àqueles que buscam animes, com funcionalidade de recomendação com IA por base em gostos predefinidos. | Springboot, React |
 | [PyToken](#https://github.com/cesar-ads2402-vsaa/PyToken) | Simulador em Python que modela o conceito de Token Ring utilizado no padrão FDDI (Fiber Distributed Data Interface), demonstrando a passagem de token entre nós e o mecanismo de transmissão de dados em uma rede em anel. | Python |
+| [Java-Studies](#https://github.com/cesar-ads2402-vsaa/PyToken) | Este repositório reúne meus estudos em Java. Aqui registro exercícios, exemplos e pequenos projetos desenvolvidos para consolidar meus conhecimentos na linguagem e evoluir na programação orientada a objetos. | Java |
 
 ###
 
